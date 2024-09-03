@@ -59,7 +59,7 @@ async function main() {
   console.log("Chave Privada: ", node.toWIF());
   console.log("Seed: ", mnemonic);
   console.log("QRCode do endereço: ");
-  qrcode.generate(btcAddress, { small: true });
+  qrcode.generate('address here', { small: true });
 }
 
 // Executando a função principal
