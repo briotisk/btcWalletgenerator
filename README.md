@@ -1,5 +1,5 @@
 # btcWalletgenerator
-Este projeto é uma ferramenta de linha de comando (CLI) que permite gerar carteiras Bitcoin na rede de teste (testnet). Ele oferece opções para criar uma nova carteira ou utilizar um mnemônico existente.
+Este projeto é uma ferramenta de linha de comando (CLI) que permite gerar carteiras Bitcoin na rede de teste (testnet). Ele oferece opções para criar uma nova carteira ou utilizar um mnemônico existente. O código é uma extensão e aprimoramento do código presente neste repositório [aqui](https://github.com/digitalinnovationone/formacao-blockchain-dio/tree/main/Modulo%2001%20Fundamentos%20da%20Blockchain/Curso%2001%20Introducao%20a%20Blockchain/Criando%20e%20utilizando%20a%20sua%20carteira%20de%20criptomoedas) do Cassiano da DIO.
 
 ## Funcionalidades
 - Geração de Mnemônico: Gere um novo mnemônico de 12 palavras para criar uma nova carteira.
