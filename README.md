@@ -27,10 +27,10 @@ Você será solicitado a escolher entre gerar uma nova carteira ou utilizar um m
 ## Exemplo de Saída
 
 
-> Carteira criada com sucesso!
-> Endereço: 2N5zRtQCu5rGkAnfUbqFGBHjE5FjoRJgg3E
-> Chave Privada: Kz...e9P
-> Seed: dose deliver goose uniform exhaust basket lunch...
-> QRCode do endereço:
+> Carteira criada com sucesso!  
+> Endereço: 2N5zRtQCu5rGkAnfUbqFGBHjE5FjoRJgg3E  
+> Chave Privada: Kz...e9P  
+> Seed: dose deliver goose uniform exhaust basket lunch...  
+> QRCode do endereço:  
 >
 >![address qrcode](img/qrcode.png)
